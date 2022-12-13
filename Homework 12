@@ -6,4 +6,4 @@ skb = per_cent_1[1]
 vtb = per_cent_1[2]
 sber = per_cent_1[3]
 deposit = [int((tkb*money)/100), int((skb*money)/100), int((vtb*money)/100), int((sber*money)/100)]
-print('Максимальная сумма, которую вы можете заработать —', max(deposit
+print('Максимальная сумма, которую вы можете заработать —', max(deposit))
